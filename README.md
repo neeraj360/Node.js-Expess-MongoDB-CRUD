@@ -1,7 +1,7 @@
 # Node.js-Expess-MongoDB-CRUD
 
 ###### Before Running this Project
- 1. Install npm packages using 'npm install' command.
+ 1. Install all npm packages using 'npm install' command.
   
 Content discussed : 
  - Form Design 
